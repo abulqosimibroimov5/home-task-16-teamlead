@@ -98,3 +98,24 @@
     padding: 30px;
     box-shadow: 5px 5px 5px 5px;
 }
+.salom19{
+    margin-top: 200px;
+    color: white;
+    padding: 30px;
+    width: 1430px;
+    background-color: #272727;
+}
+.salom20{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 30px;
+}
+.salom21{
+    display: flex;
+    gap: 150px;
+}
+.salom22{
+    margin-top: -100px;
+    width: 400px;
+}
