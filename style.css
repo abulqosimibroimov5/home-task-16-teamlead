@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+.salom{
+    margin-left: 100px;
+    display: flex;
+}
+.salom1{
+    margin-left: 100px;
+    gap: 30px;
+    display: flex;
+}
+.salom2{
+    padding: 10px 30px;
+    background-color: #279A59;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
