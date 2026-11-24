@@ -163,3 +163,20 @@
     margin-left: 100px;
     margin-top: -100px;
 }
+.salom34{
+    padding: 30px;
+    width: 1370px;
+    background-color: #279A59;
+    color: white;
+    margin-top: 200px;
+}
+.salom35{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.salom40{
+    margin-left: 300px;
+    display: flex;
+    gap: 70px;
+}
