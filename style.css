@@ -79,3 +79,22 @@
 .salom15{
     margin-top: 20px;
 }
+.salom16{
+    display: flex;
+}
+.salom17{
+        margin-top: 50px;
+    margin-left: 50px;
+    width: 300px;
+    height: 150px;
+    padding: 30px;
+    box-shadow: 5px 5px 5px 5px;
+}
+.salom18{
+        margin-top: 50px;
+    margin-left: 50px;
+    width: 300px;
+    height: 150px;
+    padding: 30px;
+    box-shadow: 5px 5px 5px 5px;
+}
